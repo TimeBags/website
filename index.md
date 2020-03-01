@@ -5,11 +5,9 @@
 layout: home
 ---
 
-# FAQ
+## What is it?
 
-## Q: What is this?
-
-A: A tool to prove that a file existed before a particular time
+A tool to prove that a file existed before a particular time
 
 * OpenTimestamps.org calendars and freeTSA.org service made easily available to any end-user
 * Cross-platform Linux/Mac/Win
