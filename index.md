@@ -5,6 +5,8 @@
 layout: home
 ---
 
+# FAQ
+
 ## Q: What is this?
 
 A: A tool to prove that a file existed before a particular time
