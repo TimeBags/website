@@ -3,11 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: FAQ
 ---
 
-## What is it?
+## Q: What is it?
 
-A tool to prove that a file existed before a particular time
+A: A tool to prove that a file existed before a particular time
 
 * OpenTimestamps.org calendars and freeTSA.org service made easily available to any end-user
 * Cross-platform Linux/Mac/Win
@@ -35,7 +36,7 @@ A: Well... it's still in Alpha version
 
 But if you are a python developer and you are interested to contribute, the repo is [here](https://github.com/TimeBags/timebags)
 
-### Q: How Is It Made?
+## Q: How Is It Made?
 
 A: Combining a bunch of components
 
