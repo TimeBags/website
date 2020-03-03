@@ -5,9 +5,9 @@ title: First published release
 
 # Release alpha.2
 
-It is a working artifact with just a very important missing feature for UX - a progress dialog during the ~10 seconds required by the timestamping background process.
+It is a working artifact without a very important feature for UX so far - a progress dialog appearing during the ~10 seconds required by the timestamping background process.
 
-I'm not used programming UI so this is forcing me to learn many amazing things.
+I'm not used to multi-thread GUI programming, so this is forcing me to learn many amazing things.
 
 # Anecdote
 

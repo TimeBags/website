@@ -10,7 +10,7 @@ title: About
 
 A: A tool to prove that a file existed before a particular time
 
-* OpenTimestamps.org calendars and freeTSA.org service made easily available to any end-user
+* FreeTSA.org service and OpenTimestamps.org calendars made easily available to any end-user
 * Cross-platform Linux/Mac/Win
 * Entirely based on free sw, strong cryptography, open standards
 
@@ -25,10 +25,11 @@ A: Because attesting that a file existed before a particular time can be useful 
 
 ## Q: Wait... But, Why Also on the Blockchain? 
 
-A: A classical timestamp provided by a trusted third party is very precise (it proves the existence at a particular second), it replies instantly and is a legal standard. It can be validated for a limited time (usually no more than 20 years), for technical and economic reasons
+A: A classical timestamp provided by a trusted third party - like FreeTSA.org - is very precise (it proves the existence at a particular second), it replies instantly and is a legal standard. It can be validated for a limited time (usually no more than 20 years), for technical and economic reasons
 
-On the other hand, an OpenTimestamps.org attestation is less precise (it proves the existence at a particular day), requires time to be confirmed, and is not yet a legal standard. It relies on the Bitcoin’s blockchain, a resilient distributed system, aiming to survive perpetually, secured by the thermodynamic value of more than 50 TWh per year (~ 3 bln of $)
+On the other hand, a Blockchain attestation - like that of an OpenTimestamps.org calendar - is less precise (it proves the existence at a particular day), requires time to be confirmed, and is not yet a legal standard. It relies on the Bitcoin’s blockchain, a resilient distributed system, designed to survive perpetually, secured by the thermodynamic value of more than 50 TWh per year (~ 3 bln of $)
 
+For this reason TimeBags uses both to have the benefits of both.
 
 ## Q: Ok, Where Is The Package?
 
