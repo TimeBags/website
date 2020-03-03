@@ -16,7 +16,7 @@ A: A tool to prove that a file existed before a particular time.
 
 ## Q: Wait... But, Why Timestamping?
 
-A: Because attesting that a file existed before a particular time can be useful to.
+A: Because attesting that a file existed before a particular time can be useful to...
 
 * prove when an agreement was signed, if it is disputed
 * validate a signature after a revocation occurred
