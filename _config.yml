@@ -39,3 +39,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#####################
+#
+# cisba memo
+#
+# To see where is default stuff:
+#       bundle info --path minima
+#
