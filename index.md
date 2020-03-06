@@ -33,7 +33,7 @@ On the other hand, a Blockchain attestation - like that of an OpenTimestamps.org
 
 However it is less precise (it proves the existence at a particular day), requires time to be confirmed, and is not yet a legal standard.
 
-For all these reasons TimeBags uses both - to have all the benefits of both.
+For all these reasons TimeBags uses both methods - to take advantage of their respective benefits.
 
 ## Q: Ok, Where Is The Package?
 
