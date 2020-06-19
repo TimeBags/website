@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Published Release
+title: First Published (Alpha) Release
 ---
 
 # Release alpha.2
