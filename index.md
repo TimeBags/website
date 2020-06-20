@@ -49,5 +49,5 @@ A: Combining a bunch of components.
 * [opentimestamps.org](https://opentimestamps.org) calendars service and CLI (modified to be used as a library)
 * [ASiC-S](https://www.etsi.org/deliver/etsi_ts/102900_102999/102918/01.03.01_60/ts_102918v010301p.pdf) open standard defined by ETSI and based simply on zip archives
 * [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro) cross-platform GUI library
-* [fman](https://build-system.fman.io/) build system
+* [fman](https://build-system.fman.io/) and [AppImage](https://appimage.org/) build tools
 
