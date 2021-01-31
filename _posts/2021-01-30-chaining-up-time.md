@@ -11,5 +11,5 @@ The most popular timestamping scheme and service, based on Public Key Infrastruc
 
 This paper describes the aspects that make timestamping on the Bitcoin blockchain complementary to commonly widespread Time Stamping Authority services, which are standardized and legally recognized; and proposes some technically viable solutions to integrate the two timestamping schemes.
 
-The paper is published on [SSRN](https://dx.doi.org/10.2139/ssrn.3).
+The paper is published on [SSRN](https://dx.doi.org/10.2139/ssrn.3743330).
 
