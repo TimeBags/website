@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chaining Up Time
+title: Chaining up Time
 ---
 
 # Abstract
